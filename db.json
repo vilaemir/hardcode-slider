@@ -1,0 +1,22 @@
+{
+  "slides": [
+    {
+      "id": "1",
+      "image": "https://placehold.co/600x400/orange/white?text=Priority+1",
+      "url": "https://www.youtube.com/watch?v=1Vnghdsjmd0",
+      "priority": 1
+    },
+    {
+      "id": "2",
+      "image": "https://placehold.co/600x400/green/white?text=Priority+1",
+      "url": "https://www.youtube.com/watch?v=1Vnghdsjmd0",
+      "priority": 1
+    },
+    {
+      "id": "3",
+      "image": "https://placehold.co/600x400/blue/white?text=Priority+2",
+      "url": "https://www.youtube.com/watch?v=1Vnghdsjmd0",
+      "priority": 2
+    }
+  ]
+}

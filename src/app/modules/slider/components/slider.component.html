@@ -1,0 +1,7 @@
+<div class="slider">
+  <div class="items" *ngFor="let item of currentItems">
+    <a [href]="item?.image" target="_blank">
+      <img [src]="item?.image" alt="{{ item?.priority }}" />
+    </a>
+  </div>
+</div>
